@@ -1,0 +1,199 @@
+---
+title: "Participación Reflexiva"
+author: "Martin Karl"
+date: "202020: `r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Semana 11 "Equilibrio trabajo, pobreza, desigualdad" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Esta semana se aprendió conceptos como pobreza, desigualdad, equilibrio y el efecto de estos.
+Objetivos: (RA4), (RA5), (RA6)
+
+Describa conocimientos previos en realación al tema
+
+-El concepto de desigualdad el cual se ha estado hablando mucho en el ultimo tiempo
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-La pobreza y la desigualdad son conceptos que se ultilizan diariamente, por lo tanto se necesitan entender de buena manera con la finalidad de poder entender las conversaciones diarias y poder dar una opinion fundada.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Entender estos conceptos y entenderlos al momento de realizar cualquier proyecto es sumamente importante, para realizarlo de la mejor manera posible y que beneficie a todos.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-No hubo
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-No hubo trabajo grupal
+
+
+## Semana 3 "Funcionamiento mercados, demanda" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Se aprendio el concepto de demanda, la cual fue fundamental para el resto del curso.
+Objetivos: (RA2), (RA3)
+
+Describa conocimientos previos en realación al tema
+
+-El concepto de demanda, y que implicaba.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-La demanda es un concepto que se usa en todo momento y entender como funciona ayuda al momento de realizar cualquier transaccion de forma inteligente.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Enterder como funciona la demanda es de gran importancia al momento de realizar cualquier proyecto y realizarlo de manera inteligente. 
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-No hubo Trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-No hubo trabajo grupal
+
+## Semana 4 "Funcionamiento mercados, demanda" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Esta semana principalmente se aprendio sobre el concepto de oferta, la cual ayudo a entender mas a fondo el concepto de la semana 3 la demanda.
+Objetivos: (RA2), (RA3), (RA4), (RA5)
+
+Describa conocimientos previos en realación al tema
+
+-La oferta y como funcionaba.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-La oferta, acompañandolo con el concepto ya visto de demanda, ayuda a entender como funciona a un nivel superficial un mercado, lo cual se puede aplicar a cualquier ambito economico de la cotidianeidad.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-El entender este concepto ayudaria a administrar cualquier tipo de costo al momento de hacer un trabajo.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-No hubo Trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-No hubo trabajo grupal
+
+## Semana 7 "Intervencion del gobierno" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Se aprendieron varias formas en las cuales el gobierno puede intervenir en distintos mercados, como los subsidios o impuestos.
+Objetivos: (RA2), (RA3), (RA4), (RA5)
+
+Describa conocimientos previos en realación al tema
+
+-Conocia los que eran los subsidios e impuestos.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-El concepto de impuestos es algo que todos necesitamos conocer ya que influye directamente en nuestra vida.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Es importante la forma que influyen los impuestos o subsidios en distintos rubros y por ende al momento de realizar algun proyecto influyen al momento de este.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-No hubo Trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-No hubo trabajo grupal
+
+## Semana 8 "Comercio internacional" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Se aprendio sobre como funciona el comercio internacional
+Objetivos: (RA3), (RA4)
+
+Describa conocimientos previos en realación al tema
+
+-Conocia solo el concepto de comercio internacional.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-El comercio internacional influye directamente en todas las personas ya que tiene un grado de influencia en la situacion economia dentro de los paises.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Si mi rubro necesita contactos en otros paises, este concepto podria ayudar a hacer transacciones de la forma mas inteligente posible.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-No hubo Trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-No hubo trabajo grupal
+
+## Semana 10 "sistema impositivo" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Se aprendio sobre el sistema impositivo y las externalidades de este.
+Objetivos: (RA3), (RA4), (RA5), (RA6)
+
+Describa conocimientos previos en realación al tema
+
+-Conocia un poco sobre el sistema impositivo.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-El concepto de externalidades ayuda mucho a entender como funciona un mercado.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-El concepto de externalidades se puede aplicar a un trabajo de forma interna lo cual puede ser muy util.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-Lograr entender de que depende la decision de el resto de y lograr tomar la mejor decision
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-Lograr tomar una desicion la cual se ve influida en el resto
+
+## Semana 12 "Ingreso, PIB, IPC, Desempleo" 
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-Se aprendio sobre el concepto de PIB y desempleo.
+Objetivos: (RA2), (RA4)
+
+Describa conocimientos previos en realación al tema
+
+-Entendia un poco el concepto de PIB e IPC.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-Son todos conceptos los cuales al momento de conseguir o dar empleo son fundamentales. 
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-A mi parecer son conceptos que se pueden aplicar a cualquier tipo de empleo, como el desempleo el cual se aplica en todo tipo de rubro, pero un ingeniero los podria aplicar de forma mas fundada.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-No hubo trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-No hubo trabajo grupal
